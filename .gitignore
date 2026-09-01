@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---------------------------------------------------------------------------
+# Project data
+# ---------------------------------------------------------------------------
+
+# Image data (distributed via Zenodo)
+images/
+training_images/
+
+# Trained model (distributed via Zenodo)
+*.pth
+
+# Scratch files from parameter checks
+TEST_*
+tmp_*
