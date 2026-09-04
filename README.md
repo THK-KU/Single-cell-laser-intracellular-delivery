@@ -37,9 +37,7 @@ CPU otherwise. Inference on CPU is slow but works.
 
 ## Data
 
-Download the archives from Zenodo (DOI: [DOI]) and unpack them into `images/`
-in the repository root, so that each `<sample>_before` / `<sample>_after`
-directory sits directly under it.
+Download the archives from Zenodo (DOI: [DOI]).
 
 ### `images/` — experimental data
 
