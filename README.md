@@ -37,7 +37,7 @@ CPU otherwise. Inference on CPU is slow but works.
 
 ## Data
 
-Download the archives from Zenodo (DOI: [DOI]).
+Download the archives from Zenodo ([10.5281/zenodo.22226958](https://doi.org/10.5281/zenodo.22226958)).
 
 ### `images/` — experimental data
 
