@@ -121,7 +121,7 @@ python unet_train.py --images training_images/BF_circle \
 ```
 
 Skip this step to use `cell_unet_model.pth`, the checkpoint used in the
-paper. Download it from Zenodo (DOI: [DOI]) and place it in the repository root. Retraining will not reproduce it bit-for-bit.
+paper. Download it from Zenodo ([10.5281/zenodo.22226958](https://doi.org/10.5281/zenodo.22226958)) and place it in the repository root. Retraining will not reproduce it bit-for-bit.
 
 ### 4. Predict cell masks
 
